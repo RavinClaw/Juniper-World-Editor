@@ -1,3 +1,9 @@
+"""
+This file is not a library
+all this file does it allow you to reformat a world file it does not load in the editor
+
+use: `python update_world.py world_you_want_to_update`
+"""
 import sys
 import json
 
